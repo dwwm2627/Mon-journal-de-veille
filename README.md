@@ -1,5 +1,8 @@
 <!-- Modèle d'une entrée du journal de veille : copiez ce bloc en haut de README.md à chaque veille. -->
 # Mon journal de veille
+[google](https://www.google.com)
+[yahoo](https://www.yahoo.com)
+[mdn](https://www.mdn.com)
 
 ## 30/10/2026 — Les mots de passe
 
